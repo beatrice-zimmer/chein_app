@@ -26,6 +26,7 @@ Um aplicativo desktop feito em Python com a biblioteca Tkinter e banco de dados 
 `cd CheinApp`
 
 2º) Execute o arquivo `/database/chein.sql` no MySQL
+
 3º) Execute o app `cheinApp.py`
 
 ### :love_letter: Créditos
