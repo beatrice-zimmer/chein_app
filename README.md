@@ -29,7 +29,9 @@ Um aplicativo desktop feito em Python com a biblioteca Tkinter e banco de dados 
 
 2º) Execute o arquivo `/database/chein.sql` no MySQL
 
-3º) Execute o app `cheinApp.py`
+3º) Mude o campo `senha` (linha 44) na função `connectChein()` do arquivo `cheinApp.py` para a senha do usuário administrador (`root`) do seu MySQL
+
+4º) Execute o app `cheinApp.py`
 
 ### :love_letter: Créditos
 
