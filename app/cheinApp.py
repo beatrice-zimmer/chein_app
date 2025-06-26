@@ -41,7 +41,7 @@ def connectChein():
     return mysql.connect(
         host='localhost',
         user='root',
-        password='3214',
+        password='senha',
         database='Chein'
     )
 
