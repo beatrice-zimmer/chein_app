@@ -22,7 +22,9 @@ Um aplicativo desktop feito em Python com a biblioteca Tkinter e banco de dados 
 1º) Clone o repositório
 
 `[Git Bash]`
+
 `git clone https://github.com/beatrice-zimmer/chein_app`
+
 `cd CheinApp`
 
 2º) Execute o arquivo `/database/chein.sql` no MySQL
