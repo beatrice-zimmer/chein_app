@@ -32,6 +32,7 @@ Um aplicativo desktop feito em Python com a biblioteca Tkinter e banco de dados 
 ### :love_letter: Créditos
 
 Desenvolvido por Beatrice Zimmer para fins educacionais.
+
 Caso tenha uma sugestão/dúvida, entre em contato:
 
 linkedin.com/in/beatrice-zimmer
